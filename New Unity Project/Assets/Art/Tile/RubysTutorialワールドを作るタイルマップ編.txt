@@ -1,0 +1,9 @@
+RubysAdventureTutorial
+
+ワールドを作る-タイルマップ
+9・Tilesetのスプライト設定を調整する
+
+Tileset編集のため
+SpriteEditorを開き、ウィンドウ上部のSliceを、と文中にはあるがSliceが見つからない場合。
+ウィンドウが小さくなっているとSliceが表示されていない。プルダウンメニューからも見つからなかった。
+ウィンドウを大きくすればOK。
